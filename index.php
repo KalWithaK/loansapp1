@@ -54,6 +54,8 @@
 
 <?php
 
+echo "hsuogfdjlgdflgdls";
+
 $servername = "localhost";
 $username = "root";
 $password = "root";
