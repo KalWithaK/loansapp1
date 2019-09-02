@@ -3,7 +3,7 @@
 
 <?php
 
-$conn = mysqli_connect("localhost","root","root", "loansApp");
+$conn = mysqli_connect("remotemysql.com","fKAjehLO2Y","DG1B4qhwpV", "fKAjehLO2Y");
 
 if ($conn == false)
 
