@@ -54,12 +54,10 @@
 
 <?php
 
-echo "hsuogfdjlgdflgdls";
-
-$servername = "localhost";
-$username = "root";
-$password = "root";
-$dbname = "loansApp";
+$servername = "remotemysql.com";
+$username = "fKAjehLO2Y";
+$password = "DG1B4qhwpV";
+$dbname = "fKAjehLO2Y";
 
     // Create connection
     $conn = mysqli_connect($servername, $username, $password, $dbname);
